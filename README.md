@@ -1,6 +1,8 @@
-# wagnoster.zsh-theme
+# Wagnoster ZSH and BASH Theme
 
-A ZSH theme based on [agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme)
+A ZSH theme based on [agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme).
+
+Bash version also available which is adapted from [agnoster.bash](https://gist.github.com/kruton/8345450).
 
 # Compatibility
 
