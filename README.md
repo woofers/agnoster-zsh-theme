@@ -8,7 +8,7 @@ A ZSH theme based on [agnoster-zsh-theme](https://github.com/agnoster/agnoster-z
 
 To test if your terminal and font support it, check that all the necessary characters are supported by copying the following command to your terminal: `echo "\ue0b0 \u00b1 \ue0a0 \u27a6 \u2718 \u26a1 \u2699"`. The result should look like this:
 
-![img](./screenshots/char.png "Character Example")
+![img](./screenshots/chars.png "Character Example")
 
 ## What does it show?
 
